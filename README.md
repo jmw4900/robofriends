@@ -1,3 +1,10 @@
+<h1>Robofriends</h1>
+My solution to HTML exercise (lecture 205) - https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
+
+See the result here
+
+=====================================================================================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
